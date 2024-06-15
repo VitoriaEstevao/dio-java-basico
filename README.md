@@ -1,1 +1,1 @@
-Teste
+Repositorio para atividades do curso de java basico oferecido pela plataforma DIO.
